@@ -170,6 +170,7 @@ elif option == '2':
       get_favorites()
    else:
       print("Not a valid option")
+      
 else:
    print("Not a valid option")
    exit()
